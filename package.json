@@ -1,0 +1,28 @@
+{
+  "name": "emu85",
+  "version": "1.0.0",
+  "description": "8085 Emulator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not yet"
+  },
+  "keywords": [
+    "8085",
+    "i8085",
+    "85",
+    "i85"
+  ],
+  "author": "RedMikePumpkin",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
